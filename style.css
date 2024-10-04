@@ -1,0 +1,15 @@
+
+h1 {
+  display: flex;
+  font-family: arial, sans serif;
+  color: purple;
+  justify-content: space-between;
+  font-size: 40px;
+  align-items: center;
+  margin: 0;
+}
+.personalicon img {
+margin-left: 1020px; 
+margin-top: -80px;
+}
+
